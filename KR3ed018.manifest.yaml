@@ -1,0 +1,329 @@
+canonical_identifier: bkk:krp/KR3ed018/v1
+canonical_location: https://kanripo.org/bkk/KR3ed018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 千金寶要
+  identifiers:
+    krp: KR3ed018
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed018.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed018_000.yaml, hash: 'sha256:45d554511c8c20251171388e8843ada0ff507feb5985cbe863d15b8fe51ff64e'}
+  - {seq: 1, filename: KR3ed018_001.yaml, hash: 'sha256:59d84c55af15e7aeb102f9da92add42a836108cb4e3a8bae194bc7a0dc8168d6'}
+  - {seq: 2, filename: KR3ed018_002.yaml, hash: 'sha256:3b6944893d8d6204baf77daf98f1d2ebe03a91966eeac3671c13eb4dbd69a9cc'}
+  - {seq: 3, filename: KR3ed018_003.yaml, hash: 'sha256:245b61a901d3a81eb512035779f1034a4405d3d10baef7d3da39ea59e060c6af'}
+  - {seq: 4, filename: KR3ed018_004.yaml, hash: 'sha256:bff1c7fd7ae997e9577eb4edcfa3b7f427b0e961b19f954ff965c11d00d48c3f'}
+  - {seq: 5, filename: KR3ed018_005.yaml, hash: 'sha256:effee0fc0ba8f4c480dec9cda653624bc2a2590effbb6c3f0d044049b5572484'}
+  - {seq: 6, filename: KR3ed018_006.yaml, hash: 'sha256:a7228ff580eff1b15f20697a934f230a5c8a829874e48f6922fe0e62f5bd1e83'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed018_000.markers.yaml, hash: 'sha256:a3acc8b3c261a7101f6ac8cbfa950d54bb267324787c8a431876455ed4e9a972'}
+  - {seq: 1, role: markers, filename: assets/KR3ed018_001.markers.yaml, hash: 'sha256:bae11208dbfb7d71809811f1c5abad6f9e6a8aa060026d400ae5434a2875c81a'}
+  - {seq: 2, role: markers, filename: assets/KR3ed018_002.markers.yaml, hash: 'sha256:40c04b4e6f83e8723f388b1e38f496716d6c3fb7ecf4a4c645a4561f701e7d34'}
+  - {seq: 3, role: markers, filename: assets/KR3ed018_003.markers.yaml, hash: 'sha256:c33a73677e56409a450f0a88e1c8ab153f8dea9f2267b4d79fd2324f5bb63cf8'}
+  - {seq: 4, role: markers, filename: assets/KR3ed018_004.markers.yaml, hash: 'sha256:1d713481a570491250ebaa83df70afa595a274ad58926beeed677d4bd0b5e179'}
+  - {seq: 5, role: markers, filename: assets/KR3ed018_005.markers.yaml, hash: 'sha256:d4197279c0c4a51143d8eeb55693783187e2040ef59183c25a492deb4bc9758a'}
+  - {seq: 6, role: markers, filename: assets/KR3ed018_006.markers.yaml, hash: 'sha256:37bd119feea468b356dfa73d47ccfe58b7f639a8c41eeec5e9557b1084d0a95a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed018_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 533
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed018_jc_000-d3.h1s1
+    span:
+    - front
+    - 533
+    - 743
+  label: 刻千金寶要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed018_jc_000-d4.h1s1
+    span:
+    - front
+    - 743
+    - 1236
+  label: 重刻千金寶要序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed018_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5458
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed018_jc_001-d5d2
+    span:
+    - body
+    - 3
+    - 626
+  label: 婦人第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed018_jc_001-d5d3
+    span:
+    - body
+    - 626
+    - 3195
+  label: 小兒第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed018_jc_001-d5d4
+    span:
+    - body
+    - 3195
+    - 4759
+  label: 中毒第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed018_jc_001-d5d5
+    span:
+    - body
+    - 4759
+    - 5458
+  label: 飲食中毒第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed018_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5614
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed018_jc_002-d6d2
+    span:
+    - body
+    - 3
+    - 632
+  label: 解百藥毒第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed018_jc_002-d6d3
+    span:
+    - body
+    - 632
+    - 1993
+  label: 蛇蠍毒等第六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed018_jc_002-d6d4
+    span:
+    - body
+    - 1993
+    - 3251
+  label: 喉痹金瘡第七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed018_jc_002-d6d5
+    span:
+    - body
+    - 3251
+    - 5614
+  label: 瘡疽癰腫第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed018_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5707
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed018_jc_003-d7d2
+    span:
+    - body
+    - 3
+    - 915
+  label: 霍亂吐瀉第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed018_jc_003-d7d3
+    span:
+    - body
+    - 915
+    - 1367
+  label: 虎犬馬傷第十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed018_jc_003-d7d4
+    span:
+    - body
+    - 1367
+    - 3598
+  label: 舌耳心目等大小便第十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed018_jc_003-d7d5
+    span:
+    - body
+    - 3598
+    - 5707
+  label: 中風大風水氣第十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed018_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2020
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed018_jc_004-d8d2
+    span:
+    - body
+    - 3
+    - 1173
+  label: 瘧痢症等第十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed018_jc_004-d8d3
+    span:
+    - body
+    - 1173
+    - 2020
+  label: 頭風吐逆第十四
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed018_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 4365
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed018_jc_005-d9d2
+    span:
+    - body
+    - 3
+    - 1508
+  label: 疫瘴渴淋第十五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed018_jc_005-d9d3
+    span:
+    - body
+    - 1508
+    - 3907
+  label: 頭面手足瘰癧瘡漏第十六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed018_jc_005-d9d4
+    span:
+    - body
+    - 3907
+    - 4365
+  label: 痔第十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed018_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 7184
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed018_jc_006-d10d262
+    span:
+    - body
+    - 5630
+    - 6196
+  label: 耆婆萬病丸
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed018_jc_006-d10d263
+    span:
+    - body
+    - 6196
+    - 6814
+  label: 仙人玉壺丸
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed018_jc_006-d10d264
+    span:
+    - body
+    - 6814
+    - 7184
+  label: 千金須知
+  type: section
+  level: 2
+hash: sha256:c2093f2bce5c7c41f8fb987e685a561273fb0f71cf69b4edb0a4bac0f1e8da4b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
