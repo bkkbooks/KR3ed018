@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed018_000.yaml, hash: 'sha256:87c3bad06d26a0387c1f5ba52b70515c78e34459ea55b4563675b97e48e65952'}
+  - {seq: 0, filename: KR3ed018_000.yaml, hash: 'sha256:66257664b06547dde39a1b0c4389a92a607a027dac58f410a93aed606ed00876'}
   - {seq: 1, filename: KR3ed018_001.yaml, hash: 'sha256:59d84c55af15e7aeb102f9da92add42a836108cb4e3a8bae194bc7a0dc8168d6'}
   - {seq: 2, filename: KR3ed018_002.yaml, hash: 'sha256:f59296366b788e56c02cef4fa85bd2cd86d886d304f33a6d6ba21ff016dfe2ef'}
   - {seq: 3, filename: KR3ed018_003.yaml, hash: 'sha256:e44c30a01fd20ee89b9a204f09d0c968dc08ed3eed6458b17c81d97676e94c2e'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3ed018_005.yaml, hash: 'sha256:4d8c847a4119c4f4c49843b9cc97fc752a5f37f82ef7f222d5574e95ef9471fb'}
   - {seq: 6, filename: KR3ed018_006.yaml, hash: 'sha256:b675b7f4a4e809d2fe6ec59b56346c452a916fde06992f6cedadf2084e8fb4ee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed018_000.markers.yaml, hash: 'sha256:c240534eedb01ff34b40b5fc34fc8cdf9c2943f9b5f298b55d439415091f6f43'}
+  - {seq: 0, role: markers, filename: assets/KR3ed018_000.markers.yaml, hash: 'sha256:e0b5984e120c663f14d32598fb77941fcccdfadd03b2b494f3c239422dc210e4'}
   - {seq: 1, role: markers, filename: assets/KR3ed018_001.markers.yaml, hash: 'sha256:4270869cbf71e69a28d78fa74a7b73958676a081018a2354c543ae1e803f5e20'}
   - {seq: 2, role: markers, filename: assets/KR3ed018_002.markers.yaml, hash: 'sha256:7d4ade855d7854301c3c3b72e2ee99c2a715119436f456ddff27e5b24338c394'}
   - {seq: 3, role: markers, filename: assets/KR3ed018_003.markers.yaml, hash: 'sha256:a0c4f10200a74fdd192ddbc734da4c9244252f8011142c4b8b2c0f223e0a5742'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed018_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 533
   label: 自序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed018_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 533
     - 743
   label: 刻千金寶要序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed018_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 743
     - 1236
   label: 重刻千金寶要序
@@ -323,7 +323,7 @@ table_of_contents:
   label: 千金須知
   type: section
   level: 2
-hash: sha256:fc05bda4c86ac185aa219bd85dc952b7b9bbc9bf27a53394df61512d8340c1f7
+hash: sha256:810b026eb60d751f1390be8e76e023de7846cbd2966e939e8155ae5d9c0a2649
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
